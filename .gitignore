@@ -1,0 +1,4 @@
+.env
+nginx/certs/
+mysql/exporter.my.cnf
+mysql/init/
